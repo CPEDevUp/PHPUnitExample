@@ -17,3 +17,13 @@ composer update
 phpunit ./test/ 
 ```
 ### 5.ตรวจสอบการทดสอบ
+```console
+computer$ phpunit ./test/
+PHPUnit 5.5.4 by Sebastian Bergmann and contributors.
+
+.                                                                   1 / 1 (100%)
+
+Time: 121 ms, Memory: 8.00MB
+
+OK (1 test, 5 assertions)
+```
