@@ -16,3 +16,4 @@ composer update
 ```console
 phpunit ./test/ 
 ```
+### 5.ตรวจสอบการทดสอบ
