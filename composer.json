@@ -1,0 +1,12 @@
+{
+    "name": "cpedevup/study_phpunit",
+    "authors": [
+        {
+            "name": "Nattapon Rakthong",
+            "email": "nattapon.rakthong@gmail.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^6.2"
+    }
+}
